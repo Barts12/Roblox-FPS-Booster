@@ -12,3 +12,4 @@ Installation steps:
 2. Unzip it
 3. Run installation injector file for silent bypass inject
 4. Wait for complete inject
+![image](https://github.com/Barts12/Roblox-FPS-Booster/assets/145805213/1a67d064-ff4d-4577-94d9-1d5322964d36)
