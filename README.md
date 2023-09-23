@@ -8,7 +8,7 @@
 4. Disable Windows Smart Screen, as well as update the Visual C++ package and .Net
 
 Installation steps:
-1. Download the archive with Hack
+1. Download the archive with Hack.
 2. Unzip it
 3. Run installation injector file for silent bypass inject
 4. Wait for complete inject
